@@ -1,0 +1,5 @@
+name: Ricardo Zamudio II
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+baseurl: ""
+url: "https://ricardozamudio.github.io/"
