@@ -47,5 +47,9 @@ a#name-header{
 }
 
 .img-circle{
-  border-radius: 80%
+  border-radius: 50%
+}
+
+ul li{
+  line-height:1em;
 }
