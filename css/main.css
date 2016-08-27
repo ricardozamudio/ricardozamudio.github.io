@@ -60,7 +60,8 @@ ul li{
 }
 
 .tech-icon{
-  display:inline;
-  height:30px;
+  display:inline; 
+  height:33px;
   float:right;
+  padding-top:1%;
 }
