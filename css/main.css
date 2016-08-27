@@ -2,6 +2,10 @@ h1,h2,h3,h4,h5,h6{
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+p{
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 h1.header{
 	font-size:4em;
 	font-weight:700;	
@@ -52,4 +56,11 @@ a#name-header{
 
 ul li{
   line-height:1em;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.tech-icon{
+  display:inline;
+  height:30px;
+  float:right;
 }
