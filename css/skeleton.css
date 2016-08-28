@@ -47,7 +47,24 @@
     width: 100%;
     padding: 0;
     margin-top:15%; }
+
+  .tech-icon{
+    display:inline; 
+    height:20px;
+    float:right;
+    padding-top:1%;
+  }
+
+  .project-name{
+    font-size:20px;
+  }
 }
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+  @media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+  @media only screen and (max-width: 479px) {}
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
